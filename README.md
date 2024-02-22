@@ -11,7 +11,9 @@ advertisement.
 • To minimize the losses due to shoplifting and the cost associated with security.
 
 Overview of Front End
+
 • Front End Tool: HTML, CSS, JAVASCRIPT
 
-1.2.2 Overview of Back End
+Overview of Back End
+
 • Back End: My SQL
