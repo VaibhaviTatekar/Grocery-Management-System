@@ -12,7 +12,7 @@ advertisement.
 
 Overview of Front End
 
-• Front End Tool: HTML, CSS, JAVASCRIPT
+• Front End Tool: HTML, CSS, PHP
 
 Overview of Back End
 
